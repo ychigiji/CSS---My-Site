@@ -1,0 +1,111 @@
+body{
+  margin:0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1{
+  color:  #C71585;
+  margin-top: 0;
+  font-size: 562.5%;
+  font-family: 'Sacramento', cursive;
+}
+h2{
+  color: #C71585;
+  margin-top: 0;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: normal;
+}
+h3{
+  color:  #FF69B4;
+  margin-top: 0;
+  font-family: 'Montserrat', sans-serif;
+}
+p{
+  color: #778899;
+}
+a{
+  text-decoration: none;
+}
+.top-container{
+background-color: #FFF0F5;
+position: relative;
+padding-top: 100px;
+}
+
+.skills{
+  background-color: #FFF0F5;
+  padding: 100px 70px 70px 70px;
+  margin:auto;
+}
+.bottom-container{
+background-color: #FFB6C1;
+font-family: 'Montserrat', sans-serif;
+padding: 50px 70px 70px 70px;
+font-size: 20px;
+color: white;
+
+}
+.contact-me{
+  padding: 50px 70px 70px 70px;
+}
+
+.bottom-cloud{
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto  100px auto;
+  text-align: right;
+  line-height: 2;
+}
+.skillCode{
+  width: 50%;
+  margin: 100px auto  100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.codeImg{
+  width: 25%;
+  float: right;
+  margin-right: 30px;
+
+}
+.energyImg{
+    float: left;
+    width: 25%;
+    margin-left: 30px;
+}
+.girlImg{
+    float: left;
+    width: 25%;
+    margin-left: 30px;
+    border-radius: 100%;
+
+}
+.profile{
+  display: inline-block;
+  width: 230px;
+  text-align: center;
+}
+.btn {
+	background-color:#DB7093;
+  padding:10px 20px;
+	border-radius:20px;
+	display:inline-block;
+  text-decoration:none;
+	cursor:pointer;
+	color:#ffffff;
+	font-family: 'Montserrat', sans-serif;
+	font-size:17px;
+}
+.btn:hover {
+	background-color: #FFC0CB ;
+}
