@@ -27,7 +27,6 @@ p{
 a{
   text-decoration: none;
 }
-<<<<<<< HEAD
 .intro-paragraph{
   color: #40514E;
   width: 30%;
@@ -38,12 +37,6 @@ a{
 background-color: #FFF0F5;
 position: relative;
 padding-top: 75px;
-=======
-.top-container{
-background-color: #FFF0F5;
-position: relative;
-padding-top: 100px;
->>>>>>> a5281115907602e6fa40f43a6ce39a7e63cd9f4c
 }
 
 .skills{
@@ -64,27 +57,17 @@ color: white;
 }
 
 .bottom-cloud{
-<<<<<<< HEAD
 position: absolute;
  padding: 200px 50px 75px 100px;
  left: 300px;
  top: 10px;
 
-=======
-  position: absolute;
-  left: 300px;
-  bottom: 300px;
->>>>>>> a5281115907602e6fa40f43a6ce39a7e63cd9f4c
 }
 .top-cloud{
   position: absolute;
   right: 300px;
-<<<<<<< HEAD
   top: 25px;
    padding: 0 50px 75px 100px;
-=======
-  top: 50px;
->>>>>>> a5281115907602e6fa40f43a6ce39a7e63cd9f4c
 }
 .skill-row{
   width: 50%;
