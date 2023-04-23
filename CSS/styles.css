@@ -129,9 +129,11 @@ a {
 }
 
 .profile {
+  padding-top: 2%;
   display: inline-block;
-  width: 230px;
+  width: 400px;
   text-align: center;
+  line-height: 2;
 }
 
 .btn {
